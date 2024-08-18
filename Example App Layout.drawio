@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="UnYt0q-zE_bb_42Oo8xT">
-    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,31 @@
           <mxGeometry x="130" y="70" width="280" height="620" as="geometry" />
         </mxCell>
         <mxCell id="B7Dn9M5oNJrzpiHSZBRj-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;fillColor=#bac8d3;strokeColor=#23445d;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="145" y="130" width="250" height="250" as="geometry" />
+          <mxGeometry x="145" y="167" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="B7Dn9M5oNJrzpiHSZBRj-2" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="24.4" height="40" as="geometry" />
+          <mxGeometry x="340" y="297" width="24.4" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7Dn9M5oNJrzpiHSZBRj-3" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
-          <mxGeometry x="170" y="235" width="24.4" height="40" as="geometry" />
+          <mxGeometry x="170" y="272" width="24.4" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7Dn9M5oNJrzpiHSZBRj-4" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
-          <mxGeometry x="290" y="160" width="24.4" height="40" as="geometry" />
+          <mxGeometry x="290" y="197" width="24.4" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7Dn9M5oNJrzpiHSZBRj-5" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="24.4" height="40" as="geometry" />
+          <mxGeometry x="180" y="177" width="24.4" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7Dn9M5oNJrzpiHSZBRj-6" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=#B20000;shadow=0;fillColor=#e51400;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="250" y="270" width="24.4" height="40" as="geometry" />
+          <mxGeometry x="250" y="307" width="24.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="141" y="125" width="260" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/geosm-e-commerce/48/menu-128.png;imageBackground=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="133.4" y="117.5" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings_office_365;" vertex="1" parent="1">
+          <mxGeometry x="185.4" y="127.5" width="30" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
