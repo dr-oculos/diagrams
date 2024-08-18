@@ -4,8 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vcVVq3tf8CAwNSZ5ANbR-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#FFFFFF;labelBackgroundColor=none;fillColor=#182E3E;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="vcVVq3tf8CAwNSZ5ANbR-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#FFFFFF;labelBackgroundColor=none;fillColor=#182E3E;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="130" y="70" width="280" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;fillColor=#bac8d3;strokeColor=#23445d;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="145" y="130" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-2" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="24.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-3" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
+          <mxGeometry x="170" y="235" width="24.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-4" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="24.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-5" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="24.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B7Dn9M5oNJrzpiHSZBRj-6" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=#B20000;shadow=0;fillColor=#e51400;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="24.4" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
